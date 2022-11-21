@@ -18,3 +18,8 @@ Sentiment Analysis on Tweets Mentioning Elon Musk
 - Preprocessing of text field
 - NLTK processing of text field
 - Has Stemming, Lemmatizing, POS Tagging
+
+**003: Geotag Stream**
+- Experiment with only getting tweets with coordinates
+- Filter out retweets
+- WIP
