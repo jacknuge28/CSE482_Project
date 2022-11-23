@@ -23,3 +23,11 @@ Sentiment Analysis on Tweets Mentioning Elon Musk
 - Experiment with only getting tweets with coordinates
 - Filter out retweets
 - Runs for two hours, gets tweets with locations in the US.
+
+**004: Pull Tweets V2**
+- Processing Pipeline from 002
+- Work directly with results from 003: Geotag Stream
+- Cleans, stems, lemmatizes, and part-of-speech tags words from Tweet
+- TODO:
+- Determine Positive and Negative words
+- Compute "Positivity Ratio"
