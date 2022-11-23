@@ -22,4 +22,4 @@ Sentiment Analysis on Tweets Mentioning Elon Musk
 **003: Geotag Stream**
 - Experiment with only getting tweets with coordinates
 - Filter out retweets
-- WIP
+- Runs for two hours, gets tweets with locations in the US.
