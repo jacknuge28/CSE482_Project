@@ -28,6 +28,6 @@ Sentiment Analysis on Tweets Mentioning Elon Musk
 - Processing Pipeline from 002
 - Work directly with results from 003: Geotag Stream
 - Cleans, stems, lemmatizes, and part-of-speech tags words from Tweet
-- TODO:
 - Determine Positive and Negative words
 - Compute "Positivity Ratio"
+- Prepares data for model building
