@@ -31,3 +31,6 @@ Sentiment Analysis on Tweets Mentioning Elon Musk
 - Determine Positive and Negative words
 - Compute "Positivity Ratio"
 - Prepares data for model building
+
+**005: Data Playground**
+- Unpickles dataframe for further testing
